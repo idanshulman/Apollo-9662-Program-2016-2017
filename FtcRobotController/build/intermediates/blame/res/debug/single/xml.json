@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\FTC 9662 Program\\Desktop\\Team#9662\\Update 3-1-17\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\squarebot.xml",
+        "source": "C:\\Users\\FTC 9662 Program\\.android\\build-cache\\3dd0ebd2a53dd99ad1cae05d85a7f44e6eda45ec\\output\\res\\xml\\squarebot.xml"
+    },
+    {
+        "merged": "C:\\Users\\FTC 9662 Program\\Desktop\\Team#9662\\Update 3-1-17\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9legacybot.xml",
+        "source": "C:\\Users\\FTC 9662 Program\\.android\\build-cache\\3dd0ebd2a53dd99ad1cae05d85a7f44e6eda45ec\\output\\res\\xml\\k9legacybot.xml"
+    },
+    {
+        "merged": "C:\\Users\\FTC 9662 Program\\Desktop\\Team#9662\\Update 3-1-17\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9usbbot.xml",
+        "source": "C:\\Users\\FTC 9662 Program\\.android\\build-cache\\3dd0ebd2a53dd99ad1cae05d85a7f44e6eda45ec\\output\\res\\xml\\k9usbbot.xml"
+    },
+    {
+        "merged": "C:\\Users\\FTC 9662 Program\\Desktop\\Team#9662\\Update 3-1-17\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "C:\\Users\\FTC 9662 Program\\Desktop\\Team#9662\\Update 3-1-17\\ftc_app-master\\FtcRobotController\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\FTC 9662 Program\\Desktop\\Team#9662\\Update 3-1-17\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbot.xml",
+        "source": "C:\\Users\\FTC 9662 Program\\.android\\build-cache\\3dd0ebd2a53dd99ad1cae05d85a7f44e6eda45ec\\output\\res\\xml\\pushbot.xml"
+    },
+    {
+        "merged": "C:\\Users\\FTC 9662 Program\\Desktop\\Team#9662\\Update 3-1-17\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbotsens.xml",
+        "source": "C:\\Users\\FTC 9662 Program\\.android\\build-cache\\3dd0ebd2a53dd99ad1cae05d85a7f44e6eda45ec\\output\\res\\xml\\pushbotsens.xml"
+    },
+    {
+        "merged": "C:\\Users\\FTC 9662 Program\\Desktop\\Team#9662\\Update 3-1-17\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\FTC 9662 Program\\Desktop\\Team#9662\\Update 3-1-17\\ftc_app-master\\FtcRobotController\\src\\main\\res\\xml\\preferences.xml"
+    }
+]

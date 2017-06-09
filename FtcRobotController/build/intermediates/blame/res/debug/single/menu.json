@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\FTC 9662 Program\\Desktop\\Team#9662\\Update 3-1-17\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\menu_server.xml",
+        "source": "C:\\Users\\FTC 9662 Program\\.android\\build-cache\\8f43d032e62900a350211128c28b6346987d3b37\\output\\res\\menu\\menu_server.xml"
+    },
+    {
+        "merged": "C:\\Users\\FTC 9662 Program\\Desktop\\Team#9662\\Update 3-1-17\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\FTC 9662 Program\\.android\\build-cache\\ebafc6384f07394d8bb386c202ee2cac7582e5c8\\output\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\FTC 9662 Program\\Desktop\\Team#9662\\Update 3-1-17\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\ftc_robot_controller.xml",
+        "source": "C:\\Users\\FTC 9662 Program\\Desktop\\Team#9662\\Update 3-1-17\\ftc_app-master\\FtcRobotController\\src\\main\\res\\menu\\ftc_robot_controller.xml"
+    }
+]
